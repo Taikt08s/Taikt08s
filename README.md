@@ -20,18 +20,15 @@
     <ul>
       <li> 
   <p float="left">
-   <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
-  </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
+   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+  </p>
+      </li> 
+ </ul>
+  <ul>
+      <li> 
+  <p float="left">
+   <img src="https://img.shields.io/badge/Spring%20Boot-00FF7F?style=for-the-badge&logo=springboot&logoColor=white">
+       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ff2d5c?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=ff7a19">
   </p>
       </li> 
  </ul>
