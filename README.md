@@ -1,6 +1,6 @@
 <p float="left">
     <h1> Styematic (Taikt08s) </h1>
-    Third-year student. Love code and learning new things.
+    Third-year student, love code and learning new things.
 </p>
 
 <p float="left">
