@@ -11,9 +11,10 @@
   </p>
 </p>
 
-<p float="left">
-  <img src="https://media1.tenor.com/m/KjzlO3tQRnMAAAAC/omutatsu-hatsune.gif">
+
+
   <h1> Tech Stack </h1>
+  ![til](./tenor.gif)
   <p float="left">
 <!--     <ul>
       <li> 
