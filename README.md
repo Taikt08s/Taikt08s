@@ -4,7 +4,7 @@
 </p>
 
 <p float="left">
-  <h1>Contact</h1>
+  <h2>Contact</h2>
      <img src="./tenor.gif" align="right"  height=200 width="auto">
   <p float="left">
     <b><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20"> Discord:</b> <code>styematic#xtrange08s</code> <br>
@@ -14,9 +14,10 @@
   </p>
 </p>
 
-<p float="left">
-  <img src="./tenor-sparkle.gif" align="right">
-  <h1> Tech Stack </h1>
+<p float="left"> <br> <br>
+  <img src="./tenor-sparkle.gif" align="right" width=350 >
+  <h3 align="left">Tech Stack</h3>
+    <hr>
   <p float="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
