@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Docker-00b7ec?style=for-the-badge&logo=docker&logoColor=white">
     <img src="https://img.shields.io/badge/PostgreSQL-0e6791?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/SQL%20Server-444444?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-    <img src="https://img.shields.io/badge/Render-00e3b8?style=for-the-badge&logo=render&logoColor=whit">
+    <img src="https://img.shields.io/badge/Render-00e3b8?style=for-the-badge&logo=render&logoColor=white">
   </p>
       </li> 
  </ul>
