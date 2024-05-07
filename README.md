@@ -1,5 +1,5 @@
 <p float="left">
-    <h1> Styematic (Taikt08s) </h1>
+    <h2> Styematic (Taikt08s) </h2>
     Third-year student, love code and learning new things.
 </p>
 
@@ -27,8 +27,22 @@
   <ul>
       <li> 
   <p float="left">
-   <img src="https://img.shields.io/badge/Spring%20Boot-00FF7F?style=for-the-badge&logo=springboot&logoColor=white">
-       <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ff2d5c?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=ff7a19">
+      <img src="https://img.shields.io/badge/IntelliJ%20IDEA-ff2d5c?style=for-the-badge&logo=intellijidea&logoColor=black&labelColor=ff7a19">
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+      <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
+  </p>
+      </li> 
+ </ul>
+ <ul>
+      <li> 
+  <p float="left">
+   <img src="https://img.shields.io/badge/Spring%20Boot-239120?style=for-the-badge&logo=springboot&logoColor=white">
+      <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white">
+    
   </p>
       </li> 
  </ul>
