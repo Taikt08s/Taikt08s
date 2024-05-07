@@ -15,7 +15,7 @@
 </p>
 
 <p float="left"> <br> <br> <br>
-  <img src="./tenor-sparkle.gif" align="right" width=350 >
+  <img src="./tenor-sparkle.gif" align="right" width=500 >
   <h3 align="left">Tech Stack</h3>
     <ul>
       <li> 
