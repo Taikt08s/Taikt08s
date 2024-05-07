@@ -12,11 +12,10 @@
 </p>
 
 
-
-  <h1> Tech Stack </h1>
   ![til](./tenor.gif)
+  <h1> Tech Stack </h1>
   <p float="left">
-<!--     <ul>
+    <ul>
       <li> 
         <img src="&logo=arch-linux&logoColor=white">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -45,6 +44,5 @@
         <img src="https://img.shields.io/badge/Discord-API-%2302569B.svg?style=for-the-badge&logo=discord&logoColor=white">
         <img src="https://img.shields.io/badge/mySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white">
       </li>
-    </ul> -->
+    </ul>
   </p>
-</p>
