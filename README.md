@@ -36,13 +36,24 @@
  <ul>
       <li> 
   <p float="left">
-   <img src="https://img.shields.io/badge/Spring%20Boot-239120?style=for-the-badge&logo=springboot&logoColor=white">
-      <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-239120?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Thymeleaf-005f16?style=for-the-badge&logo=thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-        <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
-        <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+    <img src="https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/CSS-2965f1?style=for-the-badge&logo=css3&logoColor=white">
     
+  </p>
+      </li> 
+ </ul>
+ <ul>
+      <li> 
+  <p float="left">
+    <img src="https://img.shields.io/badge/Docker-00b7ec?style=for-the-badge&logo=docker&logoColor=white">
+    <img src="https://img.shields.io/badge/PostgreSQL-0e6791?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL%20Server-444444?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+    <img src="https://img.shields.io/badge/Render-00e3b8?style=for-the-badge&logo=render&logoColor=whit">
   </p>
       </li> 
  </ul>
