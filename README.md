@@ -1,9 +1,9 @@
 <p float="left">
     <h2> Styematic (Taikt08s) </h2>
     <img src="https://minhthi.net/wp-content/uploads/2019/08/tumblr_pu4vxtbccl1qztgoio1_r1_540.gif" align="right"  height=200 width="auto">
-    <br><br><br>
+    <br><br><br><br>
     Third-year student, love code and learning new things.
-    <br><br><br>
+    <br><br><br><br>
 </p>
 
 <p float="left">
