@@ -12,8 +12,9 @@
   <p float="left">
     <b><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20"> Discord:</b> <code>styematic#xtrange08s</code> <br>
     <b><img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="20"> Youtube:</b> <code>Xtrange</code> <br>
-    <b><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="20"> Facebook:</b> <code>Đặng Đình Tài</code>
-    <br> <br> <br> <br>
+    <b><img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg" width="20"> Facebook:</b> <code>Đặng Đình Tài</code><br>
+      <b><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" width="20"> Gmail:</b> <code>styematic@gmail.com</code>
+    <br> <br>
   </p>
 </p>
 
