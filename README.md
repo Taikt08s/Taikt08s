@@ -17,7 +17,8 @@
 <p float="left"> <br> <br>
   <img src="./tenor-sparkle.gif" align="right" width=350 >
   <h3 align="left">Tech Stack</h3>
-    <hr>
+    <ul>
+      <li> 
   <p float="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
@@ -32,4 +33,6 @@
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
   </p>
+      </li> 
+ </ul>
 </p>
