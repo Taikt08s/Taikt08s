@@ -8,12 +8,12 @@
     <p float="left">
       <b>[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" >] Discord:</b> <code>styematic</code> <br>
       <b>[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="20">] Revolt:</b> <code>Xtrange</code> <br>
-      <br> <br> <br>
+      <br>
   </p>
 </p>
 
 <p float="left">
-  <img src="https://c.tenor.com/KjzlO3tQRnMAAAAC/tenor.gif"  align="right">
+  <img src="https://media1.tenor.com/m/KjzlO3tQRnMAAAAC/omutatsu-hatsune.gif">
   <h1> Tech Stack </h1>
   <p float="left">
 <!--     <ul>
