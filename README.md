@@ -1,6 +1,6 @@
 <p float="left">
     <h1> Styematic (Taikt08s) </h1>
-    Third-year student
+    Third-year student. Love code and learning new things.
 </p>
 
 <p float="left">
@@ -19,7 +19,7 @@
   <h1> Tech Stack </h1>
   <p float="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png" width="40" height="40"/>
   </a>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/>
