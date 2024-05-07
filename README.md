@@ -3,21 +3,23 @@
     Third-year student
 </p>
 
- <p float="left">
-    <h1> Contact </h1>
-    <p float="left">
-      <b>[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20" >] Discord:</b> <code>styematic</code> <br>
-      <b>[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="20">] Youtube:</b> <code>Xtrange</code>
+<p float="left">
+  <h1>Contact</h1>
+     <img src="./tenor.gif" align="right"  height=200 width="auto">
+  <p float="left">
+    <b>[<img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="20">] Discord:</b> <code>styematic</code> <br>
+    <b>[<img src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png" width="20">] Youtube:</b> <code>Xtrange</code> <br>
+    <br> <br> <br> <br>
   </p>
 </p>
 
-
-  ![til](./tenor.gif)
-  <h1> Tech Stack </h1>
+<p float="left">
+<!--   <img src="./tenor.gif" align="right"> -->
+  <h1> &lt;/ Tech Stack &gt; </h1>
   <p float="left">
     <ul>
       <li> 
-        <img src="&logo=arch-linux&logoColor=white">
+        <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
       </li>
       <li>
@@ -46,3 +48,4 @@
       </li>
     </ul>
   </p>
+</p>
