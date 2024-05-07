@@ -16,7 +16,7 @@
 
 <p float="left">
 <!--   <img src="./tenor.gif" align="right"> -->
-  <h1> &lt;/ Tech Stack &gt; </h1>
+  <h1> Tech Stack </h1>
   <p float="left">
    <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
