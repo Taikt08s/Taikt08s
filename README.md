@@ -42,6 +42,7 @@
   <p float="left">
     <img src="https://img.shields.io/badge/Spring%20Boot-239120?style=for-the-badge&logo=springboot&logoColor=white">
     <img src="https://img.shields.io/badge/React-61dbfb?style=for-the-badge&logo=react&logoColor=white">
+    <img src="https://img.shields.io/badge/Flutter-ffffff?style=for-the-badge&logo=flutter&logoColor=42d2fd&labelColor=02579d">
     <img src="https://img.shields.io/badge/Thymeleaf-005f16?style=for-the-badge&logo=thymeleaf&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
